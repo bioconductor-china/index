@@ -1,7 +1,7 @@
 {
   "name": "bioconductor中文社区",
   "tagline": "bioconductor",
-  "body": "#bioconductor中文社区\r\n\r\n>在生物信息学领域，perl和Python算是两个冤家了，相应的它们的bioPerl和bioPython也是势均力敌，\r\n>我以前总是奇怪，怎么没有bioR呢，慢慢的，才了解到其实就是bioconductor系列包,也是本博客的主角！\r\n\r\n\r\n所有的教程我都会用markdown来书写，因为R支持markdown，正好可以在R studio里面直接排版代码及结果\r\n一个非常全面的[markdown教程](http://alfred-sun.github.io/blog/2015/01/10/markdown-syntax-documentation/)\r\n",
+  "body": "#bioconductor中文社区\r\n\r\n>在生物信息学领域，perl和Python算是两个冤家了，相应的它们的bioPerl和bioPython也是势均力敌，\r\n>我以前总是奇怪，怎么没有bioR呢，慢慢的，才了解到其实就是bioconductor系列包,也是本博客的主角！\r\n\r\n\r\n所有的教程我都会用markdown来书写，因为R支持markdown，正好可以在R studio里面直接排版代码及结果\r\n\r\n一个非常全面的[markdown教程](http://alfred-sun.github.io/blog/2015/01/10/markdown-syntax-documentation/)\r\n",
   "google": "",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
