@@ -1,0 +1,32 @@
+##写在前面
+>突然发现我的bioconductor.cn这个域名都快要过期了！
+
+>哈哈，才想起一年前的计划到现在还没开始实施，实在不像我的风格，可能是水平到了一定程度吧，很多初级工作不像以前那样事无巨细的把关了。正好，借这个机会找几个朋友帮我一起完成这个bioconductor中文社区计划！
+
+##背景介绍
+
+>在生物信息学领域，perl和Python算是两个冤家了，相应的它们的bioPerl和bioPython也是势均力敌，我以前总是奇怪，怎么没有bioR呢，慢慢的，才了解到其实就是bioconductor系列包：
+它的优点我就不多说了，反正我是经常用到的，在我的博客里面其实已经介绍了不少bioconductor包了[链接]( http://www.bio-info-trainee.com/tag/bioconductor)
+
+>但那远远不够，所以我这里想招募10个左右的小伙伴跟我一起完成bioconductor中文社区的建设，主要是从6个方面来来全面阐释这些包的用法以及意义！
+
+* [软件方面的包](https://www.bioconductor.org/packages/3.3/bioc/)（包括各种芯片数据处理，NGS数据处理，差异分析等等！）
+* [注释方面的包](https://www.bioconductor.org/packages/3.3/data/annotation/)(第二类是一系列的基因组注释包，主要是各种ID的转换，kegg或者GO这样的功能注释，还有其它基因信息注释，转录本，外显子起始终止等等)
+* [实验数据的包](https://www.bioconductor.org/packages/3.3/data/experiment/)(每一个实验数据包都是一篇优秀的生物信息学分析文章，分析方法，思路都是值得学习的！)
+* S4对象的讲解(这个是综合性质的讲解，因为bioconductor系列的包的基础就是一系列对象及函数，需要细致的讲解)
+* [分析流程的讲解](http://www.bioconductor.org/help/workflows/)（共有6个基础流程加上8个进阶流程）
+* [其它学习资源收集与翻译](http://www.bioconductor.org/help/course-materials/)(都是本人学习过程收集到的资源分享一下)
+
+##一个例子
+
+>我暂时的计划是希望和小伙伴们统一用Rmarkdown来写教程，我做了一个例子[用limma对芯片数据做差异分析](http://www.bio-info-trainee.com/tmp/limma.html),大家可以下载回去参考一下。
+
+
+>现在bioconductor更新到了3.3版本，[列表下载](http://www.bio-info-trainee.com/tmp/bioconductor3.3-packages_list.xlsx),1160个软件包，共896个注释包，277个实验数据包！学习量还是蛮大的，而且中文资源奇缺，这时候翻译这个对后学者是非常有帮助的，希望能找到热心的小伙伴们一起完成这件事！
+
+##暂定目标
+
+>像我上面那个示例教程那样的软件包完成200个常用的，10个小伙伴每个人20个
+>注释包分成三类：芯片包,org系列包，TXDB系列包，我们只选取模式生物介绍
+>实验数据包，我们介绍芯片数据，RNA-seq，外显子，CHIP-seq，cancer相关的约50个，这个需要读paper，工作量会比较大！
+>其它的作为长期目标，持续更新
